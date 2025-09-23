@@ -86,4 +86,4 @@ walker hello {
 - Use `report` to output data.
 
 ---
-This cheat sheet covers the essentials for quick reference as you learn Jac. For more, see the [Jaseci Docs](https://docs.jaseci.org/).
+This cheat sheet covers the essentials of Jac. For more, see the [Jaseci Docs](https://docs.jaseci.org/).

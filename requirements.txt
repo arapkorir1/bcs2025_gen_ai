@@ -118,3 +118,8 @@ webencodings==0.5.1
 websockets==10.4
 xdg==5
 yt-dlp==2023.3.4
+
+# Jac/Jaseci dependencies
+jaseci
+jaseci-serv
+jaseci-kit
