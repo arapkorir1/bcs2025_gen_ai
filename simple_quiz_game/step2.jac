@@ -1,7 +1,7 @@
 import random;
 
 obj Quizgame{
-    has questions: str;
+    has questions: list;
     has score: int=0;
 
     def init(){
