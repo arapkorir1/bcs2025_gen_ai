@@ -5,7 +5,7 @@ class QuizGame:
         self.questions = [
             {"q": "What does AI stand for?", "a": "A", "options": "A: Artificial Intelligence, B: Automated Input"},
             {"q": "What is ML?", "a": "B", "options": "A: Machine Language, B: Machine Learning"}
-        ]  # Add more up to 5
+        ]  
         random.shuffle(self.questions)
         self.score = 0
 
